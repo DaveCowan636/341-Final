@@ -1,0 +1,100 @@
+header {
+    position:absolute;
+    top: 0px;
+    background-color: #507aa6;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    margin-top: 0;
+    height: 4.3em;
+    width: 100%;}
+
+.menu-item, .site-name {
+    display: inline-block;
+    margin: 0 0;
+    text-align: left;
+    background-color:#;
+    padding: 0.5em 1em;}
+
+.site-name {
+    float: right;
+    padding-right: 1em;
+    color: white;}
+
+.menu-item a {
+    color: #fff;
+    text-decoration: none;}
+
+.menu-item:hover {
+    background-color: #507aa6;}
+
+.dropdown {
+    display: inline-block;}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0.5em 0 0 -1em;
+    color: #000;
+    background-color: #fff;
+    z-index: 1;}
+
+.dropdown-content a {
+    color: #000;}
+
+.dropdown:hover .dropdown-content {
+    display: block;}
+
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: #black;
+    background-color: #a2a2a2;}
+
+.container {
+      height: 200px;
+      width: 100%;
+      background: url(https://github.com/DaveCowan636/341-Final/blob/master/images/flathead2.JPG?raw=true) no-repeat;
+      padding:8px;
+      border:1px double #99999;
+      background-size: 100% 100%;}
+
+.container p {
+     color:white;
+     text-decoration:none;}
+
+body {
+    background-color: #e2e2e2;}
+
+.imgframe{
+  background:transparent;
+   padding:8px;
+   margin-top:5px;
+   border:1px double #999999;}
+
+.imgframe2{
+  background:transparent;
+   padding:8px;
+   margin-top:5px;
+   border:1px double #999999;}
+
+.imgframe3{
+   background:transparent;
+   padding:8px;
+   margin-top:5px;
+   border:1px double #999999;}
+
+.column1of2 {
+     float:left;
+     width:300px;
+     margin:10px
+     height:400px;}
+
+.column2of2 {
+     float:left;
+     width:300px;
+     height:100%;}
