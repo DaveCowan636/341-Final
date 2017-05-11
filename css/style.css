@@ -79,16 +79,10 @@ body {
    border:1px double #999999;}
 
 .imgframe2{
-  background:transparent;
-   padding:8px;
-   margin-top:5px;
-   border:1px double #999999;}
-
-.imgframe3{
    background:transparent;
    padding:8px;
    margin-top:5px;
-   border:1px double #999999;}
+   border:6px double #7191f1;}
 
    .box1 {
      background-color:#e2e2e2;
@@ -122,4 +116,6 @@ body {
     .txt{
       font-family:arial, verdana, sans-serif;
       line-height: 1.4em;
-      font-color:black;}
+      font-color:black;
+      padding: 6px 12px 6px 12px;
+      border: 3px single black;}
