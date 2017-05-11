@@ -84,22 +84,6 @@ body {
    margin-top:5px;
    border:6px double #7191f1;}
 
-   .box1 {
-     background-color:#e2e2e2;
-     order: 1;
-     width: 100%auto;
-     heith: 80%auto;}
-
-   .box2{
-         background-color:#e2e2e2;
-         order: 2;
-         width: 100%auto;}
-
-   .box3 {
-         background-color:#e2e2e2;
-         order: 3;
-   width: 100%auto;}
-
    .monster {
          height: 200px;
          width: 100%;
@@ -119,3 +103,11 @@ body {
       font-color:black;
       padding: 6px 12px 6px 12px;
       border: 3px single black;}
+
+    .txt2{
+      font-family:arial,verdana,sans-serif;
+      line-height:1.4em;
+      font-color:white;
+      padding:3px double white;
+      background-color:#999999;
+    }
