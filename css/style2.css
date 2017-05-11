@@ -1,5 +1,5 @@
 header {
-    position:fixed;
+    position:static;
     top: 0px;
     background-color: #507aa6;
     font-family: sans-serif;

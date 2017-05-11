@@ -105,3 +105,21 @@ body {
          background-color:#e2e2e2;
          order: 3;
    width: 100%auto;}
+
+   .monster {
+         height: 200px;
+         width: 100%;
+         background: url(https://github.com/DaveCowan636/341-Final/blob/master/images/flathead-lake-monster.jpg?raw=true) no-repeat;
+         padding:8px;
+         border:1px double #99999;
+         background-size: 100% 100%;}
+
+   .monster p {
+        color:white;
+        text-decoration:none;
+        font-size:28px;}
+
+    .txt{
+      font-family:arial, verdana, sans-serif;
+      line-height: 1.4em;
+      font-color:black;}
