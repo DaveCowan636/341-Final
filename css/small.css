@@ -1,0 +1,18 @@
+@media screen and (max-width:500px) {
+
+    .box1 {
+      order:5;
+      background-color:#e2e2e2;
+      width:100%auto;
+      height:80%auto;}
+
+    .box2 {
+        order:3;
+        background-color:#e2e2e2;
+        width:100%auto;}
+
+    .box3 {
+        order: 2;
+        background-color:#e2e2e2;
+        width: 100%auto;}
+}
