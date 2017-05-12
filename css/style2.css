@@ -26,7 +26,7 @@ header {
     text-decoration: none;}
 
 .menu-item:hover {
-    background-color: #507aa6;}
+    background-color: #c7ced1;}
 
 .dropdown {
     display: inline-block;}
@@ -37,7 +37,7 @@ header {
     border: 1px solid #000;
     margin: 0.5em 0 0 -1em;
     color: #000;
-    background-color: #fff;
+    background-color: #d8e8ee;
     z-index: 1;}
 
 .dropdown-content a {
@@ -133,4 +133,10 @@ h3 {
     .bgimg-1, .bgimg-2, .bgimg-3 {
         background-attachment: scroll;
     }
+}
+.txt3{
+  font-family:'Lemonada',cursive;
+  line-height:1.5em;
+  font-color:#adadad;
+  padding:2px;
 }

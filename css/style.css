@@ -23,13 +23,15 @@ header {
 
 .menu-item a {
     color: #fff;
-    text-decoration: none;}
+    text-decoration: none;
+    }
 
 .menu-item:hover {
-    background-color: #507aa6;}
+    background-color: #c7ced1;}
 
 .dropdown {
-    display: inline-block;}
+    display: inline-block;
+    }
 
 .dropdown-content {
     display: none;
@@ -37,7 +39,7 @@ header {
     border: 1px solid #000;
     margin: 0.5em 0 0 -1em;
     color: #000;
-    background-color: #fff;
+    background-color: #d8e8ee;
     z-index: 1;}
 
 .dropdown-content a {
@@ -110,4 +112,18 @@ body {
       font-color:white;
       padding:3px double white;
       background-color:#999999;
+    }
+
+    .txt3{
+      font-family:'Lemonada',cursive;
+      line-height:1.5em;
+      font-color:#adadad;
+      padding:2px;
+    }
+
+    .txt4{
+      font-family:'ABeeZee', sans-serif;
+      line-height:1.4em;
+      font-color:#d2e0f0;
+      padding-left:2px double;
     }
