@@ -21,4 +21,6 @@ I like how my site turned out, I think everything flows very well together.  I s
 page to have the images layed out diffirently but am happy with this result.  The other thing I think I would have
 expanded more on would have been some more information on the main page. I dont feel like I gave enough content on it
 to really self explain what the site is. I feel like you get the idea pretty easly with what was done but it could
-have more.
+have more. Even looking at it if I would have made the beauty page with the extra content my main for the site and then used the 
+main as my beauty page I think might have gotten me a little closer to what I wanted without having the main turn out
+exactly as I had planned. 
